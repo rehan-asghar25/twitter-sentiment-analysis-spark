@@ -1,6 +1,5 @@
-saprk-env/
-saved_sentiment_model/
-__pycache__/
-*.pyc
-
-results/
+```text
+   data/
+   saved_sentiment_model/
+   results/
+   *.csv
