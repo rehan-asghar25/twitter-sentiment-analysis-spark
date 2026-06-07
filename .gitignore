@@ -1,0 +1,6 @@
+saprk-env/
+saved_sentiment_model/
+__pycache__/
+*.pyc
+
+results/
